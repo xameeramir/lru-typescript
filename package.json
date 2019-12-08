@@ -1,0 +1,33 @@
+{
+  "name": "node-typescript-template",
+  "version": "1.0.0",
+  "description": "Extremely basic template of a Typescript project (supports npm packaging)",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "tsc && git push",
+    "dev": "tsc && node dist/index.js",
+    "lint": "TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordible/node-typescript-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "template"
+  ],
+  "author": "Nordible <info@nordible.com> (https://nordible.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nordible/node-typescript-template/issues"
+  },
+  "homepage": "https://nordible.com/node-typescript-template/",
+  "files": [
+    "dist/*"
+  ],
+  "dependencies": {
+    "@types/node": "^12.12.12"
+  }
+}
