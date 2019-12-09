@@ -1,7 +1,7 @@
 {
   "name": "lru-typescript",
-  "version": "1.0.0",
-  "description": "Extremely basic template of a Typescript project (supports npm packaging)",
+  "version": "1.0.1",
+  "description": "A ready to use LRU implementation in typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nordible/node-typescript-template.git"
+    "url": "git+https://github.com/nordible/lru-typescript.git"
   },
   "keywords": [
     "typescript",
-    "template"
+    "lru"
   ],
   "author": "Nordible <info@nordible.com> (https://nordible.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nordible/node-typescript-template/issues"
+    "url": "https://github.com/nordible/lru-typescript/issues"
   },
-  "homepage": "https://nordible.com/node-typescript-template/",
+  "homepage": "https://nordible.com/lru-typescript/",
   "files": [
     "dist/*"
   ],

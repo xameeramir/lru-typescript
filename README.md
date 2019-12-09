@@ -2,16 +2,16 @@ Extremely basic skeleton code of a Node.js Typescript project with Lint support
 
 ## Contributions welcome!
 
-[Open a new PR](https://github.com/nordible/node-typescript-template/pulls) here on GitHub.
+[Open a new PR](https://github.com/nordible/lru-typescript/pulls) here on GitHub.
 
 ## Run locally
-- Run `git clone https://github.com/nordible/node-typescript-template.git` this project
-- Run `cd node-typescript-template/` to this project
+- Run `git clone https://github.com/nordible/lru-typescript.git` this project
+- Run `cd lru-typescript/` to this project
 - Run `npm run dev` to start the project on local machine
 
 ## Bugs and Issues
 
-Have a bug or an issue? [Open a new issue](https://github.com/nordible/node-typescript-template/issues) here on GitHub.
+Have a bug or an issue? [Open a new issue](https://github.com/nordible/lru-typescript/issues) here on GitHub.
 
 ## License
 
