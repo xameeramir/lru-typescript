@@ -1,6 +1,6 @@
 {
   "name": "lru-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A ready to use LRU implementation in typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
