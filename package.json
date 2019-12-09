@@ -1,5 +1,5 @@
 {
-  "name": "lru.ts",
+  "name": "lru-ts",
   "version": "1.0.0",
   "description": "Extremely basic template of a Typescript project (supports npm packaging)",
   "main": "dist/index.js",
